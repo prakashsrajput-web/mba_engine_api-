@@ -1,0 +1,1165 @@
+[
+  {
+    "entity_id": "XIMB_MBA",
+    "brand": "Xavier Institute of Management (XIMB)",
+    "program": "MBA - BM",
+    "ims_class": "A4",
+    "location": "Bhubaneswar",
+    "fees_lac": 24.2,
+    "avg_ctc_lpa": 19.53,
+    "cutoffs": {
+      "overall": 92.0,
+      "VARC": 88,
+      "DILR": 81,
+      "QA": 81
+    },
+    "batch": {
+      "intake": 360,
+      "female_pct": 34,
+      "non_engineer_pct": 52,
+      "avg_workexp_months": 24
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "Indian_School_of_Business",
+    "brand": "Indian School of Business",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Institute_of_Rural_Management_Anand",
+    "brand": "Institute of Rural Management Anand",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Jamnalal_Bajaj_Institute_of_Management_Studies",
+    "brand": "Jamnalal Bajaj Institute of Management Studies",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Jio_Institute_PGP_in_AI_DS",
+    "brand": "Jio Institute - PGP in AI & DS",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "LBSIM_PGDM_Research_Business_Analytics",
+    "brand": "LBSIM - PGDM Research & Business Analytics",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Mahindra_University",
+    "brand": "Mahindra University",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Management_Development_Institute_Gurgaon",
+    "brand": "Management Development Institute, Gurgaon",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Mudra_Institute_of_Communications_Ahmedabad",
+    "brand": "Mudra Institute of Communications Ahmedabad",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Narsee_Monjee_Institute_of_Management_Studies",
+    "brand": "Narsee Monjee Institute of Management Studies",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "National_Institute_of_Bank_Management_NIBM_PGDM_BFS",
+    "brand": "National Institute of Bank Management (NIBM) - PGDM BFS",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Nirma_University_MBA",
+    "brand": "Nirma University - MBA",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Praxis_Business_School_PGP_DS",
+    "brand": "Praxis Business School - PGP DS",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "S_P_Jain_Institute_of_Management_and_Research",
+    "brand": "S. P. Jain Institute of Management and Research",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Scaler_School_of_Business",
+    "brand": "Scaler School of Business",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Shailesh_J_Mehta_School_of_Management_Indian_Institute_of_Technology_Bombay",
+    "brand": "Shailesh J. Mehta School of Management, Indian Institute of Technology Bombay",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Shri_Ram_College_SRCC_PGD_GBO",
+    "brand": "Shri Ram College (SRCC) - PGD GBO",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Symbiosis_Centre_for_Management_and_Human_Resource_Development",
+    "brand": "Symbiosis Centre for Management and Human Resource Development",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Symbiosis_Institute_of_Business_Management",
+    "brand": "Symbiosis Institute of Business Management",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Symbiosis_School_of_Banking_and_Finance_SSBF_Pune",
+    "brand": "Symbiosis School of Banking and Finance (SSBF), Pune",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "T_A_Pai_Management_Institute",
+    "brand": "T. A. Pai Management Institute",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Tata_Institute_of_Social_Sciences",
+    "brand": "Tata Institute of Social Sciences",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "University_Business_School",
+    "brand": "University Business School",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Vinod_Gupta_School_of_Management_Indian_Institute_of_Technology_Kharagpur",
+    "brand": "Vinod Gupta School of Management, Indian Institute of Technology Kharagpur",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "WE_School_Mumbai_PGDM",
+    "brand": "WE School - Mumbai - PGDM",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "WE_School_Mumbai_PGDM_Research_Business_Analytics",
+    "brand": "WE School - Mumbai - PGDM Research & Business Analytics",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "XIM_University_MBA_BM",
+    "brand": "XIM University - MBA BM",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "XLRI_Xavier_School_of_Management",
+    "brand": "XLRI - Xavier School of Management",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Xavier_Institute_of_Management_XIMB_MBA_BM",
+    "brand": "Xavier Institute of Management (XIMB) - MBA BM",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Xavier_Institute_of_Management_XIMB_MBA_HRM",
+    "brand": "Xavier Institute of Management (XIMB) - MBA HRM",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "Xavier_University_School_of_Human_Resource_Management",
+    "brand": "Xavier University, School of Human Resource Management",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "_Agribusiness_Rural_Management",
+    "brand": "• Agribusiness & Rural Management",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "_International_Business_IB_",
+    "brand": "• International Business (IB)",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "_Operations_Supply_Chain_Management",
+    "brand": "• Operations & Supply Chain Management",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  },
+  {
+    "entity_id": "_Sustainability_Management",
+    "brand": "• Sustainability Management",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem2"
+  }
+]
