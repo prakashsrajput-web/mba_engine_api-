@@ -1,0 +1,1611 @@
+[
+  {
+    "entity_id": "IIM_A_FABM_program",
+    "brand": "IIM Ahmedabad",
+    "program": "FABM",
+    "ims_class": "Specialized",
+    "location": "Ahmedabad",
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "Agribusiness (FABM)"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 3
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": false,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIM_Bangalore_MBA",
+    "brand": "IIM Bangalore",
+    "program": "MBA / MBA-BA",
+    "ims_class": "A1",
+    "location": "Bengaluru",
+    "fees_lac": 26.0,
+    "avg_ctc_lpa": 34.88,
+    "cutoffs": {
+      "overall": 99.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 585,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General",
+      "Business Analytics"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 3,
+      "operations": 2,
+      "marketing": 2,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIM_Calcutta_PGDBA",
+    "brand": "IIM Calcutta",
+    "program": "PGP / PGDBA",
+    "ims_class": "A1",
+    "location": "Kolkata",
+    "fees_lac": 25.0,
+    "avg_ctc_lpa": 29.71,
+    "cutoffs": {
+      "overall": 99.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 65,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General",
+      "Finance",
+      "Business Analytics (PGDBA)"
+    ],
+    "strength_flags": {
+      "finance": 3,
+      "consulting": 3,
+      "operations": 2,
+      "marketing": 2,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIM_L_ABM_program",
+    "brand": "IIM Lucknow",
+    "program": "ABM",
+    "ims_class": "Specialized",
+    "location": "Lucknow",
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "Agribusiness (ABM)"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 3
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": false,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIM_Indore_PGP",
+    "brand": "IIM Indore",
+    "program": "PGP / PGP-HRM",
+    "ims_class": "A3",
+    "location": "Indore",
+    "fees_lac": 18.42,
+    "avg_ctc_lpa": 25.0,
+    "cutoffs": {
+      "overall": 93.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 578,
+      "female_pct": 35,
+      "non_engineer_pct": 24,
+      "avg_workexp_months": 20
+    },
+    "specializations": [
+      "General",
+      "HRM"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 2,
+      "operations": 2,
+      "marketing": 2,
+      "hr": 2,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": false,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIM_Kozhikode_PGP",
+    "brand": "IIM Kozhikode",
+    "program": "PGP",
+    "ims_class": "A1",
+    "location": "Kozhikode",
+    "fees_lac": 25.0,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": 94.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General",
+      "Marketing"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 2,
+      "operations": 2,
+      "marketing": 3,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIM_Shillong_PGP",
+    "brand": "IIM Shillong",
+    "program": "PGP",
+    "ims_class": "A3",
+    "location": "Shillong",
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": 90.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 2,
+      "operations": 1,
+      "marketing": 2,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": false,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIM_Mumbai_SM",
+    "brand": "IIM Mumbai",
+    "program": "SM",
+    "ims_class": "A2",
+    "location": "Mumbai",
+    "fees_lac": 21.0,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": 95.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 44,
+      "female_pct": 35,
+      "non_engineer_pct": 32,
+      "avg_workexp_months": 20
+    },
+    "specializations": [
+      "Sustainability",
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 3,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIFT_Delhi_MBA_IB",
+    "brand": "IIFT",
+    "program": "MBA (IB)",
+    "ims_class": "A2",
+    "location": "Delhi / Kolkata",
+    "fees_lac": 21.87,
+    "avg_ctc_lpa": 27.3,
+    "cutoffs": {
+      "overall": 97.0,
+      "VARC": 55,
+      "DILR": 55,
+      "QA": 55
+    },
+    "batch": {
+      "intake": 480,
+      "female_pct": 33,
+      "non_engineer_pct": 48,
+      "avg_workexp_months": 18.7
+    },
+    "specializations": [
+      "International Business",
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 2,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "ISB_PGP",
+    "brand": "ISB",
+    "program": "PGP",
+    "ims_class": "A1",
+    "location": "Hyderabad / Mohali",
+    "fees_lac": 39.51,
+    "avg_ctc_lpa": 34.21,
+    "cutoffs": {
+      "overall": null,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 929,
+      "female_pct": 47,
+      "non_engineer_pct": 69,
+      "avg_workexp_months": 48
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 3,
+      "consulting": 3,
+      "operations": 2,
+      "marketing": 2,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "FMS_Delhi_MBA",
+    "brand": "FMS Delhi",
+    "program": "MBA",
+    "ims_class": "A1",
+    "location": "Delhi",
+    "fees_lac": 2.32,
+    "avg_ctc_lpa": 34.1,
+    "cutoffs": {
+      "overall": 98.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 320,
+      "female_pct": 48,
+      "non_engineer_pct": 32,
+      "avg_workexp_months": 21
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 2,
+      "operations": 2,
+      "marketing": 3,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "MDI_Gurgaon_PGDM",
+    "brand": "MDI Gurgaon",
+    "program": "PGDM",
+    "ims_class": "A2",
+    "location": "Gurgaon",
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": 95.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General",
+      "HRM"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 2,
+      "operations": 2,
+      "marketing": 2,
+      "hr": 3,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": false,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "SJMSOM_IITB_MBA",
+    "brand": "IIT Bombay - SJMSOM",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": "Mumbai",
+    "fees_lac": null,
+    "avg_ctc_lpa": 29.6,
+    "cutoffs": {
+      "overall": 94.7,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General",
+      "Finance"
+    ],
+    "strength_flags": {
+      "finance": 3,
+      "consulting": 2,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "DMS_IITD_MBA",
+    "brand": "IIT Delhi - DMS",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": "Delhi",
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": 95.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General",
+      "Analytics"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 2,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "XLRI_Jamshedpur_PGDBM",
+    "brand": "XLRI",
+    "program": "PGDBM / PGDHRM",
+    "ims_class": "A1",
+    "location": "Jamshedpur",
+    "fees_lac": 31.59,
+    "avg_ctc_lpa": 31.08,
+    "cutoffs": {
+      "overall": 97.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 591,
+      "female_pct": 26,
+      "non_engineer_pct": 39,
+      "avg_workexp_months": 19
+    },
+    "specializations": [
+      "General",
+      "HR"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 2,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 3,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": false,
+      "Operations": true,
+      "Agri": true,
+      "HR": false,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "SPJIMR_PGDM",
+    "brand": "SPJIMR",
+    "program": "PGDM",
+    "ims_class": "A1",
+    "location": "Mumbai",
+    "fees_lac": 22.5,
+    "avg_ctc_lpa": 32.0,
+    "cutoffs": {
+      "overall": 94.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 336,
+      "female_pct": 24,
+      "non_engineer_pct": 27,
+      "avg_workexp_months": 23
+    },
+    "specializations": [
+      "General",
+      "Finance",
+      "Marketing"
+    ],
+    "strength_flags": {
+      "finance": 3,
+      "consulting": 2,
+      "operations": 2,
+      "marketing": 3,
+      "hr": 2,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": false,
+      "Agri": true,
+      "HR": false,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "JBIMS_Mumbai",
+    "brand": "JBIMS",
+    "program": "MSc / MMS / MBA",
+    "ims_class": "A4",
+    "location": "Mumbai",
+    "fees_lac": 6.0,
+    "avg_ctc_lpa": 18.0,
+    "cutoffs": {
+      "overall": 95.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 30,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": 19
+    },
+    "specializations": [
+      "Finance"
+    ],
+    "strength_flags": {
+      "finance": 3,
+      "consulting": 2,
+      "operations": 1,
+      "marketing": 2,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": false,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "NMIMS_Mumbai_MBA",
+    "brand": "NMIMS",
+    "program": "MBA Core / MBA DS&A",
+    "ims_class": "A3",
+    "location": "Mumbai",
+    "fees_lac": 25.0,
+    "avg_ctc_lpa": 25.13,
+    "cutoffs": {
+      "overall": null,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 600,
+      "female_pct": 29,
+      "non_engineer_pct": 43,
+      "avg_workexp_months": 26
+    },
+    "specializations": [
+      "Marketing",
+      "Analytics",
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 3,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "SIBM_Pune",
+    "brand": "SIBM Pune",
+    "program": "MBA",
+    "ims_class": "A4",
+    "location": "Pune",
+    "fees_lac": null,
+    "avg_ctc_lpa": 21.46,
+    "cutoffs": {
+      "overall": 92.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 60,
+      "female_pct": 26,
+      "non_engineer_pct": 17,
+      "avg_workexp_months": 36
+    },
+    "specializations": [
+      "Marketing",
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 2,
+      "operations": 1,
+      "marketing": 3,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": false,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": false
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "TAPMI_Manipal_MBA",
+    "brand": "TAPMI",
+    "program": "MBA",
+    "ims_class": "B2",
+    "location": "Manipal",
+    "fees_lac": 19.5,
+    "avg_ctc_lpa": 12.97,
+    "cutoffs": {
+      "overall": 90.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 368,
+      "female_pct": null,
+      "non_engineer_pct": 37,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General",
+      "HR",
+      "Marketing"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "GIM_Goa_PGDM",
+    "brand": "Goa Institute of Management",
+    "program": "PGDM",
+    "ims_class": "B1",
+    "location": "Sanquelim, Goa",
+    "fees_lac": 20.4,
+    "avg_ctc_lpa": 15.13,
+    "cutoffs": {
+      "overall": 85.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 191,
+      "female_pct": 30,
+      "non_engineer_pct": 54,
+      "avg_workexp_months": 12
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "FORE_PGDM",
+    "brand": "FORE School of Management",
+    "program": "PGDM",
+    "ims_class": "B2",
+    "location": "New Delhi",
+    "fees_lac": 23.24,
+    "avg_ctc_lpa": 16.4,
+    "cutoffs": {
+      "overall": 85.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 720,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "Finance",
+      "IB",
+      "BDA",
+      "FM"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIM_Amritsar_MBA_BA",
+    "brand": "IIM Amritsar",
+    "program": "MBA BA",
+    "ims_class": "A5",
+    "location": "Amritsar",
+    "fees_lac": 17.3,
+    "avg_ctc_lpa": 15.51,
+    "cutoffs": {
+      "overall": 80.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 320,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "Business Analytics"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "BITS_Pilani_BITSoM",
+    "brand": "BITS Pilani - BITSoM",
+    "program": "MBA",
+    "ims_class": "A4",
+    "location": "Mumbai",
+    "fees_lac": 27.2,
+    "avg_ctc_lpa": 23.41,
+    "cutoffs": {
+      "overall": 94.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": 94
+    },
+    "batch": {
+      "intake": 160,
+      "female_pct": 49,
+      "non_engineer_pct": 32,
+      "avg_workexp_months": 25
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "XIMB_MBA",
+    "brand": "Xavier Institute of Management (XIMB)",
+    "program": "MBA - BM",
+    "ims_class": "A4",
+    "location": "Bhubaneswar",
+    "fees_lac": 24.2,
+    "avg_ctc_lpa": 19.53,
+    "cutoffs": {
+      "overall": 92.0,
+      "VARC": 88,
+      "DILR": 81,
+      "QA": 81
+    },
+    "batch": {
+      "intake": 360,
+      "female_pct": 34,
+      "non_engineer_pct": 52,
+      "avg_workexp_months": 24
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "TISS_ODCL_HRM",
+    "brand": "TISS",
+    "program": "HRM / ODCL",
+    "ims_class": "A2",
+    "location": "Mumbai",
+    "fees_lac": 8.49,
+    "avg_ctc_lpa": 24.6,
+    "cutoffs": {
+      "overall": 70.0,
+      "VARC": 60,
+      "DILR": 60,
+      "QA": 60
+    },
+    "batch": {
+      "intake": 35,
+      "female_pct": 43,
+      "non_engineer_pct": 70,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "Human Resource"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 3,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": false,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IRMA_Anand",
+    "brand": "IRMA",
+    "program": "PGDM (Agribusiness)",
+    "ims_class": "Specialized",
+    "location": "Anand",
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 47,
+      "female_pct": 25,
+      "non_engineer_pct": 39,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "Agribusiness"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 3
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": false,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "NIBM_PGDM_BFS",
+    "brand": "NIBM",
+    "program": "PGDM BFS",
+    "ims_class": "B3",
+    "location": "Pune",
+    "fees_lac": 19.54,
+    "avg_ctc_lpa": 14.23,
+    "cutoffs": {
+      "overall": 94.0
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "Banking & Finance"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "KJ_Somaiya_MBA",
+    "brand": "K J Somaiya",
+    "program": "MBA",
+    "ims_class": "B3",
+    "location": "Mumbai",
+    "fees_lac": null,
+    "avg_ctc_lpa": 12.79,
+    "cutoffs": {
+      "overall": 84.0
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "LBSIM_PGDM",
+    "brand": "LBSIM",
+    "program": "PGDM",
+    "ims_class": "B3",
+    "location": "New Delhi",
+    "fees_lac": 17.25,
+    "avg_ctc_lpa": 12.25,
+    "cutoffs": {
+      "overall": 80.0
+    },
+    "batch": {
+      "intake": 390,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "Research & Business Analytics"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "GLIM_Chennai_PGDM",
+    "brand": "Great Lakes (GLIM Chennai)",
+    "program": "PGDM",
+    "ims_class": "B1",
+    "location": "Chennai",
+    "fees_lac": 20.8,
+    "avg_ctc_lpa": 15.1,
+    "cutoffs": {
+      "overall": 85.0
+    },
+    "batch": {
+      "intake": 300,
+      "female_pct": 30,
+      "non_engineer_pct": null,
+      "avg_workexp_months": 11
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIT_ISM_Dhanbad_MBA",
+    "brand": "IIT(ISM) Dhanbad",
+    "program": "MBA",
+    "ims_class": "B3",
+    "location": "Dhanbad",
+    "fees_lac": 4.0,
+    "avg_ctc_lpa": 11.64,
+    "cutoffs": {
+      "overall": 75.0
+    },
+    "batch": {
+      "intake": null,
+      "female_pct": null,
+      "non_engineer_pct": null,
+      "avg_workexp_months": null
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "IIM_Raipur",
+    "brand": "IIM Raipur",
+    "program": "PGP",
+    "ims_class": "A5",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added"
+  },
+  {
+    "entity_id": "IIM_Ranchi",
+    "brand": "IIM Ranchi",
+    "program": "PGP",
+    "ims_class": "A5",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added"
+  },
+  {
+    "entity_id": "IIM_Rohtak",
+    "brand": "IIM Rohtak",
+    "program": "PGP",
+    "ims_class": "A5",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added"
+  },
+  {
+    "entity_id": "IIM_Trichy",
+    "brand": "IIM Trichy",
+    "program": "PGP",
+    "ims_class": "A5",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added"
+  },
+  {
+    "entity_id": "IIM_Udaipur",
+    "brand": "IIM Udaipur",
+    "program": "PGP",
+    "ims_class": "A5",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added"
+  },
+  {
+    "entity_id": "IIM_Bodh_Gaya",
+    "brand": "IIM Bodh Gaya",
+    "program": "PGP",
+    "ims_class": "A5",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added"
+  },
+  {
+    "entity_id": "IIM_Sambalpur",
+    "brand": "IIM Sambalpur",
+    "program": "PGP",
+    "ims_class": "A5",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added"
+  },
+  {
+    "entity_id": "IIM_Sirmaur",
+    "brand": "IIM Sirmaur",
+    "program": "PGP",
+    "ims_class": "A5",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added"
+  },
+  {
+    "entity_id": "IIM_Kashipur",
+    "brand": "IIM Kashipur",
+    "program": "PGP",
+    "ims_class": "A5",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added"
+  }
+]

@@ -1,0 +1,1173 @@
+[
+  {
+    "entity_id": "BITS_Pilani_BITSoM",
+    "brand": "BITS Pilani - BITSoM",
+    "program": "MBA",
+    "ims_class": "A4",
+    "location": "Mumbai",
+    "fees_lac": 27.2,
+    "avg_ctc_lpa": 23.41,
+    "cutoffs": {
+      "overall": 94.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": 94
+    },
+    "batch": {
+      "intake": 160,
+      "female_pct": 49,
+      "non_engineer_pct": 32,
+      "avg_workexp_months": 25
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 2,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": false,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "GIM_Goa_PGDM",
+    "brand": "Goa Institute of Management",
+    "program": "PGDM",
+    "ims_class": "B1",
+    "location": "Sanquelim, Goa",
+    "fees_lac": 20.4,
+    "avg_ctc_lpa": 15.13,
+    "cutoffs": {
+      "overall": 85.0,
+      "VARC": null,
+      "DILR": null,
+      "QA": null
+    },
+    "batch": {
+      "intake": 191,
+      "female_pct": 30,
+      "non_engineer_pct": 54,
+      "avg_workexp_months": 12
+    },
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/mnt/data/vertopal.com_Comprehensive Guide to Top MBA Programs in India.json"
+  },
+  {
+    "entity_id": "2_0_Understanding_B_School_Tiers_The_IMS_Classification_System",
+    "brand": "2.0 Understanding B-School Tiers: The IMS Classification System",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "3_0_Detailed_Profiles_of_Premier_B_Schools",
+    "brand": "3.0 Detailed Profiles of Premier B-Schools",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "4_1_Business_Analytics",
+    "brand": "4.1 Business Analytics",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "B_School",
+    "brand": "B-School",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "B_School_Program_Name",
+    "brand": "B-School & Program Name",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "BIMTECH_PGDM_Insurance_Business_Management_",
+    "brand": "BIMTECH - PGDM (Insurance Business Management)",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "BIMTECH_PGDM_International_Business_",
+    "brand": "BIMTECH - PGDM (International Business)",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "BIMTECH_PGDM_Retail_Management_",
+    "brand": "BIMTECH - PGDM (Retail Management)",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Deakin_University_GIFT_City_MBA",
+    "brand": "Deakin University (GIFT City) - MBA",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Delhi_School_of_Management_DTU_Delhi",
+    "brand": "Delhi School of Management (DTU), Delhi",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Department_of_Humanities_and_Social_Sciences_Indian_Institute_of_Technology_Kharagpur",
+    "brand": "Department of Humanities and Social Sciences, Indian Institute of Technology Kharagpur",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Department_of_Management_Studies_Indian_Institute_of_Science",
+    "brand": "Department of Management Studies, Indian Institute of Science",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Department_of_Management_Studies_Indian_Institute_of_Technology_Delhi",
+    "brand": "Department of Management Studies, Indian Institute of Technology Delhi",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Department_of_Management_Studies_Indian_Institute_of_Technology_Madras",
+    "brand": "Department of Management Studies, Indian Institute of Technology Madras",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Faculty_of_Management_Studies_University_of_Delhi",
+    "brand": "Faculty of Management Studies - University of Delhi",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Great_Lakes_Institute_of_Management_Chennai",
+    "brand": "Great Lakes Institute of Management, Chennai",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Great_Lakes_Institute_of_Management_Chennai_GLIM_PGDM",
+    "brand": "Great Lakes Institute of Management, Chennai (GLIM) - PGDM",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Great_Lakes_Institute_of_Management_Chennai_GLIM_PGPM",
+    "brand": "Great Lakes Institute of Management, Chennai (GLIM) - PGPM",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Great_Lakes_Institute_of_Management_Gurgaon_GLIM_PGPM",
+    "brand": "Great Lakes Institute of Management, Gurgaon (GLIM) - PGPM",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Foreign_Trade",
+    "brand": "Indian Institute of Foreign Trade",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Ahmedabad",
+    "brand": "Indian Institute of Management Ahmedabad",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Bangalore",
+    "brand": "Indian Institute of Management Bangalore",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Calcutta",
+    "brand": "Indian Institute of Management Calcutta",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Indore",
+    "brand": "Indian Institute of Management Indore",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Kozhikode",
+    "brand": "Indian Institute of Management Kozhikode",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Lucknow",
+    "brand": "Indian Institute of Management Lucknow",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Mumbai",
+    "brand": "Indian Institute of Management Mumbai",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Raipur",
+    "brand": "Indian Institute of Management Raipur",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Ranchi",
+    "brand": "Indian Institute of Management Ranchi",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Rohtak",
+    "brand": "Indian Institute of Management Rohtak",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Shillong",
+    "brand": "Indian Institute of Management Shillong",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Tiruchirappalli",
+    "brand": "Indian Institute of Management Tiruchirappalli",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  },
+  {
+    "entity_id": "Indian_Institute_of_Management_Udaipur",
+    "brand": "Indian Institute of Management Udaipur",
+    "program": "MBA/PGDM",
+    "ims_class": "B3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 1,
+      "marketing": 1,
+      "hr": 1,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": true,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-rem1"
+  }
+]

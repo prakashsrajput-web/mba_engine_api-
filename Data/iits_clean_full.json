@@ -1,0 +1,266 @@
+[
+  {
+    "entity_id": "SJMSOM_IIT_Bombay",
+    "brand": "SJMSOM IIT Bombay",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-iit"
+  },
+  {
+    "entity_id": "IIT_Delhi_DMS",
+    "brand": "IIT Delhi DMS",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-iit"
+  },
+  {
+    "entity_id": "IIT_Kharagpur_VGSOM",
+    "brand": "IIT Kharagpur VGSOM",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-iit"
+  },
+  {
+    "entity_id": "IIT_Madras_DOMS",
+    "brand": "IIT Madras DOMS",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-iit"
+  },
+  {
+    "entity_id": "IIT_ISM_Dhanbad",
+    "brand": "IIT (ISM) Dhanbad",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-iit"
+  },
+  {
+    "entity_id": "SME_IIT_Jodhpur",
+    "brand": "SME IIT Jodhpur",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-iit"
+  },
+  {
+    "entity_id": "DOMS_IIT_KANPUR",
+    "brand": "DOMS IIT KANPUR",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-iit"
+  },
+  {
+    "entity_id": "DoMS_IIT_Roorkee",
+    "brand": "DoMS IIT Roorkee",
+    "program": "MBA",
+    "ims_class": "A3",
+    "location": null,
+    "fees_lac": null,
+    "avg_ctc_lpa": null,
+    "cutoffs": {
+      "overall": null
+    },
+    "batch": {},
+    "specializations": [
+      "General"
+    ],
+    "strength_flags": {
+      "finance": 1,
+      "consulting": 1,
+      "operations": 2,
+      "marketing": 1,
+      "hr": 0,
+      "agri": 0
+    },
+    "no_go_rules": {
+      "Finance": true,
+      "Consulting": true,
+      "Operations": false,
+      "Agri": true,
+      "HR": true,
+      "Marketing": true
+    },
+    "original_source": "/auto-added-iit"
+  }
+]
